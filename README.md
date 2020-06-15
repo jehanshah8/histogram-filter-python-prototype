@@ -1,3 +1,3 @@
 # histogram-filter-python-prototype
 
-### 2D histrogram filter
+2D histrogram filter
